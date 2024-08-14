@@ -1,2 +1,7 @@
-# SF_CS_002
-Skillfactory / C# / 2
+# Skillfactory / C#
+
+**2 глава**
+
+## ReadMe
+
+Some text...
